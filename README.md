@@ -1,0 +1,2 @@
+# CONFLICTOS-BELICOS
+Base de datos de CONFLICTOS BELICOS (Especificación/ER/MR/DDL)
